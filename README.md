@@ -1,8 +1,6 @@
 # Simple Tic-Tac-Toe
 
-Tic-Tac-Toe is a classic two-player game played on a 3x3 grid where one player is X and the other is O. The
-players take turns placing their marks, with X always going first. The player who succeeds in placing three of their
-marks in a horizontal, vertical, or diagonal row wins the game.
+Tic-Tac-Toe is a classic two-player game played on a 3x3 grid where one player is X and the other is O. The players take turns placing their marks, with X always going first. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game.
 
 This project is an interactive Tic-Tac-Toe game in Java, that was built in incremental stages:
 
@@ -24,12 +22,8 @@ This project is an interactive Tic-Tac-Toe game in Java, that was built in incre
 
 ## Demo
 
-<video width="1920" height="1080" align="center" src=""></video>
+<video width="1920" height="1080" align="center" src="https://github.com/user-attachments/assets/82c6e7ef-84b2-4f5f-b416-dd1161b911ee"></video>
 
 ## Takeaway
 
-This project significantly strengthened my understanding of 2D arrays, loops, and conditionals in Java. It
-also introduced me to more advanced concepts such as state analysis and game logic validation, where I had to
-carefully define rules and handle edge cases like impossible states or invalid user input. On top of that, building a
-full game loop helped me gain confidence in structuring longer interactive programs that combine user input, validation,
-and continuous feedback.
+This project significantly strengthened my understanding of 2D arrays, loops, and conditionals in Java. It also introduced me to more advanced concepts such as state analysis and game logic validation, where I had to carefully define rules and handle edge cases like impossible states or invalid user input. On top of that, building a full game loop helped me gain confidence in structuring longer interactive programs that combine user input, validation, and continuous feedback.
